@@ -1,0 +1,39 @@
+body{
+    margin:20px;
+    background-color: rgb(224, 243, 243);
+}
+
+.container{
+    margin-top:20x;
+    margin-bottom: 20px;
+    margin-left: 346px;
+    margin-right: 345px;
+    border-left: 20px;
+    border-right: 20px;
+    border-top:12px;
+    border-bottom: 60px;
+    border-style: solid;
+    border-radius: 2%;
+    border-color:white;
+    background-color: white;
+    padding: 1px;
+    
+}
+
+ .image{
+     text-align: center;
+     
+ }
+
+ .heading{
+     text-align: center;
+     background-color: white;
+     line-height: 8px;
+     font-size: larger;
+ }
+
+ .paragraph{
+     text-align: center;
+     line-height: 2px;
+     font-size:large;
+ }
